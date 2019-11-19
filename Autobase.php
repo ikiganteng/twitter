@@ -1,7 +1,7 @@
 <?php
 ini_set('display_errors', 1);
 require_once('lib/twitteroauth.php');
-
+//ikiganteng
 /** Ambil data hari : https://developer.twitter.com/en/apps **/
 define('CONSUMER_KEY', 'COSUMER KEY LU'); //isi
 define('CONSUMER_SECRET', 'CONSUMER SECRET LU'); //isi
